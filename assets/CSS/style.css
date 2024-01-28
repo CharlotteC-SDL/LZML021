@@ -1,0 +1,27 @@
+html {
+    background-color: #72d4e5a6;
+    font-size: 14px;
+    width: 100%;
+}
+h1{
+    font-size: 2em; /*h1, la taille de la police sera deux fois la taille de base*/
+}
+h2{
+    font-size: 1.5em; /*h2, la taille de la police sera 1.5 fois la taille de base*/
+}
+#page{
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
+    background-color: #e57972a6;
+    border: 4px solid yellow;
+    border-radius: 15px;
+}
+.entete{
+    text-align: center;
+
+}
+#aboutme{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif; /*j'aime cette police*/
+}
